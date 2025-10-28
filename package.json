@@ -1,1 +1,15 @@
-hola
+{
+  "name": "whatsapp-jira-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.3",
+    "body-parser": "^1.20.2"
+  }
+}
+
